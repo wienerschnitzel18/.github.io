@@ -13,4 +13,4 @@ Walter Bruce Willis (* 19. März 1955 in Idar-Oberstein, Deutschland) ist ein US
 
 > Yippieya Yeah, Schweinebacke
 
-<img src="https://en.wikipedia.org/wiki/File:Bruce_Willis_by_Gage_Skidmore_3.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/440px-Bruce_Willis_by_Gage_Skidmore_3.jpg">
